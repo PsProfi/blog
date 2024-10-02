@@ -23,7 +23,9 @@ class MainApp extends StatelessWidget {
                 Text("olegnovosad@gmail.com")
               ])
             ]),
-            SizedBox(height: 48,),
+            SizedBox(
+              height: 48,
+            ),
             Text("Hi, I'm Oleg Novosad",
                 style: TextStyle(fontSize: 16, color: Color(0xFF291854))),
             Text("Application Architect and Music Producer",
